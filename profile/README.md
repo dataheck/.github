@@ -1,4 +1,4 @@
-DataHeck is a company that builds data infrastructure, primarily for clients that are currently using a manual spreadsheet-based process.
+DataHeck is a business that builds data infrastructure, primarily for clients that are currently using a manual spreadsheet-based process.
 
 The following is our elevator pitch.
 
