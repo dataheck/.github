@@ -1,4 +1,4 @@
-DataHeck is my freelance business that builds data infrastructure, primarily for clients that are currently using a manual spreadsheet-based process.
+DataHeck is my freelance business for building data infrastructure, primarily for clients that are currently using a manual spreadsheet-based process.
 
 The following is my elevator pitch.
 
