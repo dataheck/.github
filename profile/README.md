@@ -1,6 +1,6 @@
-DataHeck is a business that builds data infrastructure, primarily for clients that are currently using a manual spreadsheet-based process.
+DataHeck is my freelance business that builds data infrastructure, primarily for clients that are currently using a manual spreadsheet-based process.
 
-The following is our elevator pitch.
+The following is my elevator pitch.
 
 # Data Management Should Serve YOU
 
@@ -20,4 +20,4 @@ Data should be automatically collected, recorded, cross-referenced, and reported
 
 Spreadsheets are fantastic tools, but they do not scale with your business. The data exploration and visualization available in them is extremely limited and time-consuming. They are not data science ready. They are not 21st century ready.
 
-[Contact us](https://www.dataheck.com/contact-form/) if you want help getting from where you are, to where you should be with your data infrastructure.
+[Contact me](https://www.dataheck.com/contact-form/) if you want help getting from where you are to where you should be with your data infrastructure.
