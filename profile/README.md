@@ -2,7 +2,7 @@ DataHeck is my freelance business for building data infrastructure, primarily fo
 
 The following is my elevator pitch.
 
-# Data Management Should Serve YOU
+# Important Data Should Not Be Manually Entered
 
 Do you manually collect, record, or cross-reference data as part of your business process? Are a few Excel spreadsheets duct-taped between separate enterprise systems your data management system? Are you competing in the 21st century but still using tools from the 20th?
 
